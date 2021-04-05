@@ -58,9 +58,9 @@ WHEN YOU RUN THE TOOL DURING THE TERMUXBLACK INSTALLATION IT MAY AS YOU TO DO YO
 
 <br>
 <p align="center">
-<img width="80%" src="https://1.bp.blogspot.com/-a6IbQW8ESnQ/YGtXbZ1f0zI/AAAAAAAAANs/KBK-fOemYVgZ-dBp2ZggU3FQJe_mHs6QACLcBGAsYHQ/s320/Screenshot_20210405-164005.png"/>
-<img width="80%" src="https://1.bp.blogspot.com/-wDxkUSs1WvU/YGtXUN9O-cI/AAAAAAAAANk/wxSOggI-1s4rBQ4dtkJZ9vXi88HWq8YSQCLcBGAsYHQ/s320/Screenshot_20210405-164320.png"/>
-<img width="80%" src="https://1.bp.blogspot.com/-zqDlpNaZ9EA/YGtXi4y9lWI/AAAAAAAAANw/kmDDC0byQuo7It1XKmCfaZa5p_ZPSw4iACLcBGAsYHQ/s320/Screenshot_20210405-164225.png"/>
+<img width="65%" src="https://1.bp.blogspot.com/-a6IbQW8ESnQ/YGtXbZ1f0zI/AAAAAAAAANs/KBK-fOemYVgZ-dBp2ZggU3FQJe_mHs6QACLcBGAsYHQ/s320/Screenshot_20210405-164005.png"/>
+<img width="65%" src="https://1.bp.blogspot.com/-wDxkUSs1WvU/YGtXUN9O-cI/AAAAAAAAANk/wxSOggI-1s4rBQ4dtkJZ9vXi88HWq8YSQCLcBGAsYHQ/s320/Screenshot_20210405-164320.png"/>
+<img width="65%" src="https://1.bp.blogspot.com/-zqDlpNaZ9EA/YGtXi4y9lWI/AAAAAAAAANw/kmDDC0byQuo7It1XKmCfaZa5p_ZPSw4iACLcBGAsYHQ/s320/Screenshot_20210405-164225.png"/>
 </p>
 
 
