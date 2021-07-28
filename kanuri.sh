@@ -1,5 +1,5 @@
 #!/bin/bash
-# Coded  by Baje Tech
+# Coded  by Bukareey Tech
 # A simple bash script to help the metasploit installer biginners on android                         # you can copy anywhare in this program it's but dont change the program name
 # script started now!
 
@@ -13,8 +13,8 @@ echo "█████═╝░███████║██╔██╗██�
 echo "██╔═██╗░██╔══██║██║╚████║██║░░░██║██╔══██╗██║"|lolcat
 echo "██║░╚██╗██║░░██║██║░╚███║╚██████╔╝██║░░██║██║"|lolcat
 echo "╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚═╝░░╚═╝╚═╝V0.9"|lolcat 
-echo "    ╭[CODED BY BAJE TECH ON 05/04/2021]╮"|lolcat
-echo " |AUTOMATIC MEATASPLOIT INSTALLER ON ANDROID|"|lolcat
+echo "    ╭[CODED BY BUKAREEY TECH ON 05/04/2021]╮"|lolcat
+echo " |AUTOMATIC METASPLOIT INSTALLER ON ANDROID|"|lolcat
 echo "  ------------------------------------------"
 echo ""
 echo ""
@@ -38,7 +38,7 @@ echo "  ║╔╗╔╗║╚══╬╝║║╚╣║─║║╚══╣╚
 echo "  ║║║║║║╔══╝─║║─║╚═╝╠══╗║╔══╣║─╔╣║─║║─║║"|lolcat
 echo "  ║║║║║║╚══╗─║║─║╔═╗║╚═╝║║──║╚═╝║╚═╝║─║║"|lolcat
 echo "  ╚╝╚╝╚╩═══╝─╚╝─╚╝─╚╩═══╩╝──╚═══╩═══╝─╚╝"|lolcat
-echo "               [By Baje Tech]"|lolcat
+echo "               [By Bukareey Tech]"|lolcat
   date
 sleep 3.0
 echo ""
