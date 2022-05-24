@@ -15,6 +15,7 @@ Kanuri Is The Best 2021 Android Automatic Metasploit Installer
 <a href="https://github.com/080HACKERS"><img title="Github" src="https://img.shields.io/badge/Github-080HACKERS-brightgreen?style=for-the-badge&logo=github"></a>
 <img title="YouTube" src="https://img.shields.io/badge/YouTube-080HACKERS-red?style=for-the-badge&logo=Youtube"></a>
 
+# NOTE: am sorry for not updating this program but once am less busy am updating it and if you are longer to maintain it then you can.
 ## AVAILABLE ON :
 
 * Termux Only
